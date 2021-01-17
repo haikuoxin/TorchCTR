@@ -1,1 +1,4 @@
-pytorch=1.7.1
+torch==1.7.1.info
+pandas==0.23.0
+numpy==1.19.5
+scikit_learn==0.24.0
